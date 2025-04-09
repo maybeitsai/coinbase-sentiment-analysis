@@ -103,4 +103,4 @@ Models were evaluated based on accuracy on the training, validation, and test se
 
 ## Author
 
-*   **Name:** Harry Mardika
+**Harry Mardika** - [GitHub Profile](https://github.com/hkacode)
