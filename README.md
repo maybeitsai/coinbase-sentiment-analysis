@@ -1,5 +1,7 @@
 # Coinbase Review Sentiment Analysis
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Project Description
 
 This project aims to analyze the sentiment (positive, negative, or neutral) expressed in user reviews of the Coinbase application on the Google Play Store. The analysis is performed using a comprehensive machine learning pipeline involving data scraping, text cleaning, sentiment labeling, feature extraction, training multiple classification models, evaluation, and selecting the best model for inference on new text data.
